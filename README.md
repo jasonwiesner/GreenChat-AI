@@ -9,5 +9,5 @@ Any unauthorized use, reproduction, or distribution of this software or its deri
 ## Disclaimer
 While this repository is available for viewing, this does not imply or offer any rights to use, modify, or distribute the code, images, documentation, or any other content within. This is shared strictly for reference purposes.
 
-## Contact
+### Contact
 For any inquiries, permissions, or further information, please contact info@greenchatai.com.
